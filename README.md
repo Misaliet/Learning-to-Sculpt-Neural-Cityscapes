@@ -1,2 +1,2 @@
 # Learning-to-Sculpt-Neural-Cityscapes
-code will be updated soon.
+Code will be updated soon.
