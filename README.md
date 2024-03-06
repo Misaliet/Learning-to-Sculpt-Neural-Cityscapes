@@ -1,2 +1,2 @@
 # Learning-to-Sculpt-Neural-Cityscapes
-Code will be updated soon.
+Source code and model weights will be provided upon acceptance of this paper.
